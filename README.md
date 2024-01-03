@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cdnrt
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning go programming
