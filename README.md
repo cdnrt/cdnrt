@@ -1,3 +1,11 @@
-- 👋 Hi, I’m @cdnrt
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning go programming
+# Halo semua! 
+
+Perkenalkan nama saya **Cahya Diningrat**.<br>
+
+Saya seorang **Mahasiswa IT** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+
+Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
